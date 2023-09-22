@@ -1,0 +1,1 @@
+execute as @a[nbt={SelectedItem:{tag:{Tags:["oharaibou"]}}}] at @s run effect give @e[type=zombie,distance=..5] minecraft:wither 1 1 true

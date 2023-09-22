@@ -1,0 +1,1 @@
+give @s iron_hoe{display:{Name:"\"お祓い棒\"",Lore:["\"博麗の御幣！\""]},Tags:["oharaibou"]} 1

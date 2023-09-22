@@ -1,0 +1,1 @@
+tellraw @a {"text": "お祓い棒パック v0.0.4", "color": "#00ffff"}
